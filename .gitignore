@@ -1,8 +1,6 @@
 ### IntelliJ IDEA ###
 .idea/
 target/
-pom.xml
-JavaTest.iml
 
 ### VIM ###
 *.swp
