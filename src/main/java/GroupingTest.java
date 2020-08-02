@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class GroupingTest {
-    static final Map<String, TemporalAdjuster> ADJUSTERS = new HashMap<>();
+//    static final Map<String, TemporalAdjuster> ADJUSTERS = new HashMap<>();
 
 //    ADJUSTERS.put("day",TemporalAdjusters.ofDateAdjuster(d ->d)); // identity
 //    ADJUSTERS.put("week",TemporalAdjusters.previousOrSame(DayOfWeek.of(1)));
